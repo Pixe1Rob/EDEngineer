@@ -6869,7 +6869,7 @@
     "Chemical Sample": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Chemische Probe",
       "fr": "Échantillon chimique",
       "ru": "Образец химпроизводства",
       "pl": null,
@@ -6893,7 +6893,7 @@
     "Inertia Canister": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Trägheitskanister",
       "fr": "Conteneur inertiel",
       "ru": "Инертный контейнер",
       "pl": null,
@@ -6917,7 +6917,7 @@
     "Personal Computer": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Persönlicher Computer",
       "fr": "Ordinateur personnel",
       "ru": "Персональный компьютер",
       "pl": null,
@@ -6941,7 +6941,7 @@
     "Deep Mantle Sample": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Tiefe Mantelprobe",
       "fr": "Échantillon de manteau inférieur",
       "ru": "Образец из глубинной мантии",
       "pl": null,
@@ -7157,7 +7157,7 @@
     "Chemical Superbase": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Chemische Superbase",
       "fr": "Superbase chimique",
       "ru": "Химическое супероснование",
       "pl": null,
@@ -7193,7 +7193,7 @@
     "Carbon Fibre Plating": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Kohlefaserbeschichtung",
       "fr": "Plaques en fibres de carbone",
       "ru": "Углеволоконная броня",
       "pl": null,
@@ -9139,7 +9139,7 @@
     "Planetary Settlement": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Planetensiedlung",
       "fr": "Base planétaire",
       "ru": "Планетарное поселение",
       "pl": null,
@@ -10087,7 +10087,7 @@
     "Modified Plasma Charger (Fixed, Medium)": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Modifizierter Plasmabeschleuniger (fest, mittlerer)",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -10099,7 +10099,7 @@
     "Modified Plasma Charger (Fixed, Small)": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Modifizierter Plasmabeschleuniger (fest, kleiner)",
       "fr": null,
       "ru": null,
       "pl": null,
@@ -10111,7 +10111,7 @@
     "Modified Mining Laser": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Modifizierter Abbaulaser",
       "fr": null,
       "ru": null,
       "pl": null,
